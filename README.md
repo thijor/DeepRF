@@ -5,4 +5,4 @@ DeepRF is a method for the estimation of population receptive fields (pRF) from 
 # References
 
 * Thielen, J., Güçlü, U., Güçlütürk, Y., Ambrogioni, L., Bosch, S. E., & van Gerven, M. A. (2019). DeepRF: Ultrafast population receptive field mapping with deep learning. bioRxiv, 732990.
-* Thielen, J., Güçlü, U., Güçlütürk, Y., Ambrogioni, L., Bosch, S. E., Knapen, T., & van Gerven, M. A. (in prep.). DeepRF: Ultrafast population receptive field mapping with deep learning. bioRxiv, 732990.
+* Thielen, J., Güçlü, U., Güçlütürk, Y., Ambrogioni, L., Bosch, S. E., Knapen, T., & van Gerven, M. A. (in prep.). DeepRF: Ultrafast population receptive field mapping with deep learning.
